@@ -25,7 +25,7 @@
 - Recovery lain silahkan rename file menjadi zip terlebih dahulu
 
 ## Download
-- [Magisk-Symbiote](https://github.com/fufufu7/magisk-symbiote/releases/download/v23.0/Magisk-Symbiote.apk)
+- [Magisk-Symbiote](https://github.com/muflihulfata/magisk-symbiote/releases/download/v23.0/Magisk-Symbiote.apk)
 
 ## Rencana Berikutnya
 - Auto convert props menjadi module Xambyar
